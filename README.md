@@ -1,2 +1,3 @@
 # ANumberGuesGame
-console game
+it's a simple "console game" project
+
